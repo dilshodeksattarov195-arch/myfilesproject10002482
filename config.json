@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "validatorsalculate",
+        "uuid": 12593668,
+        "checksum": "z8k08r"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
